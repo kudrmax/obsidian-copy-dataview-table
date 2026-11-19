@@ -1,0 +1,10 @@
+{
+  "id": "copy-dataview-table",
+  "name": "Copy Dataview Table",
+  "version": "1.0.0",
+  "minAppVersion": "1.6.6",
+  "description": "Copies the result of a Dataview query to the clipboard as a Markdown table.",
+  "author": "kudrmax",
+  "authorUrl": "https://github.com/kudrmax",
+  "isDesktopOnly": false
+}
